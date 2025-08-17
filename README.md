@@ -35,7 +35,7 @@ The Online Course Enrollment System is a simple JSP and Servlet-based web applic
 
  - Install MySQL.
  - Create a database (e.g., online_course_db).
- - Run the SQL script (if provided) to create the required tables.
+ - Run the SQL script to create the required tables.
  - Update database credentials inside src/DBConnection.java.
 
 4. Configure Apache Tomcat
