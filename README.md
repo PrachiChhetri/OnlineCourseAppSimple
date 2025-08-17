@@ -22,7 +22,7 @@ The Online Course Enrollment System is a simple JSP and Servlet-based web applic
 
 1. Clone the Repository
 
-- git clone https://github.com/your-username/OnlineCourseAppSimple.git
+- git clone
 - cd OnlineCourseAppSimple
 
 
